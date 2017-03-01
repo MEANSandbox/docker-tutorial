@@ -23,6 +23,7 @@ docker rmi nixnx(to remove the image(pass imageID or name))
  show all container #docker ps -a
  show running container #docker ps
  
+ for checking ubuntu version on terminal cat /etc/*release
  
 
 
